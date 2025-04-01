@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ssanya-Andrew
-- 👀 I’m interested in web design & cybersecurity
+- 👀 I’m interested in WordPress, Web design & cybersecurity
 - 🌱 I’m currently learning cybersecurity 
-- 💞️ I’m looking to collaborate on Web design and Cybersecurity
+- 💞️ I’m looking to collaborate on  WordPress, Web design and Cybersecurity
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
