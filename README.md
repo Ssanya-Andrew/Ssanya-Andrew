@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ssanya-Andrew
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in WordPress designer & Enthusiast, Web design & cybersecurity
 - 🌱 I’m currently learning DevOps & cybersecurity 
 - 💞️ I’m looking to collaborate on  WordPress, Web design, and Cybersecurity
